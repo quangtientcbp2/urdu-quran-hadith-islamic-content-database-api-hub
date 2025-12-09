@@ -1,20 +1,9 @@
 Urdu Quran Hadith Islamic API Hub
 
-Official Urdu API hub for Quran, Hadith, Islamic books, articles, fatwas, and translations — a free and reliable reference supervised directly by the administration of IslamHouse.com, QuranEnc.com, and HadeethEnc.com. This hub follows the Sunni orthodox methodology (Ahl al-Sunnah wa’l-Jama‘ah) upon the understanding of the Salaf. For direct communication with the official administration: admin@islamhouse.com
+Official Urdu API hub for Quran, Hadith, Islamic books, articles, fatwas, and translations — a free and reliable reference supervised directly by the administration of IslamHouse.com, QuranEnc.com, and HadeethEnc.com. This hub follows the Sunni. For direct communication with the official administration: admin@islamhouse.com
 
 ------------------------------------------------------------
-🚀 Quick Access
 
-IslamHouse API v3  
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/7929737/TzkyMfPc)
-
-QuranEnc API  
-[![View Documentation](https://img.shields.io/badge/QuranEnc-API-blue?style=for-the-badge)](https://quranenc.com/ur/home/api)
-
-HadeethEnc API  
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/5211979/TVev3j7q)
-
-------------------------------------------------------------
 📌 Purpose of This Repository
 
 This repository serves as a central, official Urdu-focused API hub combining three major Islamic knowledge platforms:
