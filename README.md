@@ -58,33 +58,6 @@ official API Postman collection:
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/5211979/TVev3j7q)
 
 ------------------------------------------------------------
-🧩 GitHub SEO Keywords (Highly Recommended)
-
-Add these under Repository → Settings → Topics:
-
-urdu  
-urdu-api  
-quran-api  
-hadith-api  
-islamic-api  
-islamhouse  
-quranenc  
-hadeethenc  
-urdu-quran-api  
-urdu-hadith-api  
-islamic-content  
-multilingual-islam-api  
-urdu-developers  
-quran-hadith-urdu  
-
-These keywords improve ranking for searches such as:  
-- “Urdu Quran API”  
-- “Urdu Hadith API”  
-- “IslamHouse Urdu API”  
-- “Quran Urdu JSON”  
-- “Hadith Urdu translation API”  
-
-------------------------------------------------------------
 📨 Official Contact
 
 For official communication or API-related inquiries:  
