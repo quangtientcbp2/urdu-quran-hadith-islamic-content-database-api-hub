@@ -1,73 +1,187 @@
-Urdu Quran Hadith Islamic API Hub
+<!-- ================================================================== -->
+<!-- =====================  ULTRA PREMIUM README  ===================== -->
+<!-- ================================================================== -->
 
-Official Urdu API hub for Quran, Hadith, Islamic books, articles, fatwas, and translations — a free and reliable reference supervised directly by the administration of IslamHouse.com, QuranEnc.com, and HadeethEnc.com. This hub follows the Sunni. For direct communication with the official administration: admin@islamhouse.com
+<!-- Search Keywords (Boost SEO): Urdu Quran API, Urdu Hadith API, IslamHouse Urdu, QuranEnc Urdu, HadeethEnc Urdu, Islamic API Urdu, Islamic Open Data, Urdu Islamic Content, Multilingual Islamic API, Quran Urdu Translation, Hadith Urdu Translation, Dawah API -->
 
-------------------------------------------------------------
+<div align="center">
 
-📌 Purpose of This Repository
+# URDU QURAN • HADITH • ISLAMIC API HUB  
+### THE OFFICIAL UNIFIED API GATEWAY FOR URDU DEVELOPERS
 
-This repository serves as a central, official Urdu-focused API hub combining three major Islamic knowledge platforms:
+Official unified access for:  
+**IslamHouse.com — QuranEnc.com — HadeethEnc.com**
 
-- IslamHouse.com – Books, articles, fatwas, videos, audios, authors, categories  
-- QuranEnc.com – Quran translations and tafsir in Urdu  
-- HadeethEnc.com – Authentic hadith texts with Urdu translations and explanations  
+Official contact: **admin@islamhouse.com**
 
-The goal is to provide developers with a trusted, unified, ready-to-use reference for integrating Islamic content into:
+<br>
 
-- Mobile apps  
-- Educational platforms  
-- Islamic chatbots  
-- Quran study tools  
-- Hadith research tools  
-- Da'wah websites  
-- Content aggregation systems  
+![Urdu Language](https://img.shields.io/badge/Language-Urdu-success?style=for-the-badge)
+![Quran API](https://img.shields.io/badge/Quran-API-blue?style=for-the-badge)
+![Hadith API](https://img.shields.io/badge/Hadeeth-API-purple?style=for-the-badge)
+![IslamHouse](https://img.shields.io/badge/IslamHouse-API-orange?style=for-the-badge)
+![MIT](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
-------------------------------------------------------------
-📘 IslamHouse API v3 (Urdu)
+<br>
 
-IslamHouse hosts thousands of Islamic resources in Urdu including books, articles, fatwas, videos, audio materials, and more.
+> **Official Urdu Islamic API Hub**  
+> Quran • Hadith • Books • Fatwas • Translations • Multilingual Islamic Content  
+> Powered by IslamHouse · QuranEnc · HadeethEnc
 
-official API Postman collection:  
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/7929737/TzkyMfPc)
+</div>
 
-------------------------------------------------------------
-📗 QuranEnc API (Urdu)
+---
 
-QuranEnc provides authenticated Quran translations and tafsir in Urdu.
+# 🚀 Quick Access (Official API Endpoints)
 
-Official documentation:  
-[![View Documentation](https://img.shields.io/badge/QuranEnc-API-blue?style=for-the-badge)](https://quranenc.com/ur/home/api)
+| Platform | API Documentation |
+|---------|-------------------|
+| **IslamHouse API v3** | [![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/7929737/TzkyMfPc) |
+| **QuranEnc API** | [![QuranEnc Docs](https://img.shields.io/badge/QuranEnc-API-blue?style=for-the-badge)](https://quranenc.com/ur/home/api) |
+| **HadeethEnc API** | [![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/5211979/TVev3j7q) |
 
-------------------------------------------------------------
-📘 HadeethEnc API (Urdu)
+---
 
-HadeethEnc offers authentic hadith texts with verified Urdu translation and simplified explanations.
+# 📌 Purpose of This Repository
 
-official API Postman collection:  
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/5211979/TVev3j7q)
+Designed for **Urdu-speaking developers** who want authentic Islamic data from trusted and officially supervised platforms:
 
-------------------------------------------------------------
-📨 Official Contact
+- **IslamHouse.com** → Books, fatwas, articles, audio, video, classifications  
+- **QuranEnc.com** → Urdu Quran translations & tafsir  
+- **HadeethEnc.com** → Authentic hadith with Urdu translations  
 
-For official communication or API-related inquiries:  
-admin@islamhouse.com
+All content is supervised, reliable, and free.
 
-Handled directly by the administration of:  
-- IslamHouse.com  
-- QuranEnc.com  
-- HadeethEnc.com  
+---
 
-------------------------------------------------------------
-📝 License
+# 🕌 Platform Coverage Overview
 
-MIT License.  
-API content is subject to the original platforms' licensing terms.
+| Platform | Specialization | Languages | Notes |
+|---------|----------------|-----------|-------|
+| IslamHouse | Books, fatwas, articles, media | **130+ languages** | Urdu is fully supported with thousands of resources. |
+| QuranEnc | Quran translations & tafsir | **70+ languages** | Official Urdu translation available. |
+| HadeethEnc | Hadith translations & explanations | **60+ languages** | Urdu is one of the primary supported languages. |
 
-------------------------------------------------------------
-🤝 Credits
+---
 
-- IslamHouse.com  
-- QuranEnc.com  
-- HadeethEnc.com  
+# 📚 Available Content Types  
+*(With language availability including Urdu)*
 
-A unified, official effort to support Urdu-speaking developers worldwide.
+### From IslamHouse (Urdu Included):
+- Books (PDF + Word formats)  
+- Articles  
+- Fatwas  
+- Educational videos  
+- Audio lectures  
+- Courses & lessons  
+- Authors & publishers  
+- Full classification / category trees  
+- Available in **130+ languages** including **Urdu**  
+
+### From QuranEnc (Urdu Included):
+- Full Urdu Quran translation  
+- Surah-level metadata  
+- Ayah-level metadata  
+- Translator and version information  
+- Last update timestamps  
+- Available in **70+ languages** including **Urdu**  
+
+### From HadeethEnc (Urdu Included):
+- Collections of authentic hadith  
+- Verified Urdu translations  
+- Simplified scholarly explanations  
+- Thematic & subject indexing  
+- Available in **60+ languages** including **Urdu**  
+
+---
+
+# 🌍 Supported Languages Summary
+
+Although this repository focuses on Urdu, the APIs support:
+
+- **130+ languages** via IslamHouse  
+- **70+ languages** via QuranEnc (Urdu is fully supported)  
+- **60+ languages** via HadeethEnc (Urdu among main languages)  
+
+This allows developers to scale applications globally.
+
+---
+
+# 🧩 Use Cases
+
+Ideal for building:
+
+- Urdu Quran study tools  
+- Hadith search and research platforms  
+- Islamic education apps  
+- Da'wah & community websites  
+- AI chatbots with Islamic knowledge  
+- Authentic Islamic content libraries  
+- University and research tools  
+- Daily Islamic reminders & guidance apps  
+
+---
+
+# ❓ FAQ
+
+**Is the API free?**  
+Yes — usage is free under platform rules.
+
+**Do I need an API key?**  
+Only IslamHouse requires a public key.
+
+**Is the content authentic?**  
+Yes — all platforms are fully supervised and trusted.
+
+**Can I use this in commercial apps?**  
+Yes, with attribution.
+
+**Does the platform support Urdu?**  
+Yes — all three platforms support Urdu extensively.
+
+---
+
+# 🔗 Official Platforms
+
+- https://islamhouse.com/ur  
+- https://quranenc.com/ur  
+- https://hadeethenc.com/ur  
+
+---
+
+# 📨 Contact
+
+**admin@islamhouse.com**
+
+Managed directly by:  
+IslamHouse.com · QuranEnc.com · HadeethEnc.com  
+
+---
+
+# 📝 License
+
+MIT License  
+Content follows each platform’s licensing rules.
+
+---
+
+# 🤝 Credits
+
+IslamHouse.com  
+QuranEnc.com  
+HadeethEnc.com  
+
+---
+
+<div align="center">
+
+A unified official effort to support Urdu-speaking developers with authentic Islamic knowledge.  
+⭐ If this repository benefits you, please star it.
+
+</div>
+
+<!-- ================================================================== -->
+<!-- ======================  END OF ULTRA README  ===================== -->
+<!-- ================================================================== -->
+
+
