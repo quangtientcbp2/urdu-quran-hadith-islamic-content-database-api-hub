@@ -1,9 +1,12 @@
+<!-- SEO-TAGS:
+Urdu Quran API, Urdu Hadith API, IslamHouse Urdu, QuranEnc Urdu, HadeethEnc Urdu,
+Urdu Islamic Data, Urdu Islamic API, Urdu Quran Translation, Urdu Hadith Translation,
+Islamic Open Data, Multilingual Islamic Content, Dawah API, Urdu Developers,
+Islamic Knowledge API, Quran API Urdu, Hadith API Urdu, Islamic Library API
+-->
 <!-- ================================================================== -->
 <!-- =====================  ULTRA PREMIUM README  ===================== -->
 <!-- ================================================================== -->
-
-<!-- Search Keywords (Boost SEO): Urdu Quran API, Urdu Hadith API, IslamHouse Urdu, QuranEnc Urdu, HadeethEnc Urdu, Islamic API Urdu, Islamic Open Data, Urdu Islamic Content, Multilingual Islamic API, Quran Urdu Translation, Hadith Urdu Translation, Dawah API -->
-
 <div align="center">
 
 # URDU QURAN • HADITH • ISLAMIC API HUB  
